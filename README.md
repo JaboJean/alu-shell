@@ -1,1 +1,3 @@
-# alu-shell
+Hello Fellow developers 
+here is readme.dm for my  repository
+i will appriciate for you contribution ...
